@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="Pretoria" />
+        <Weather defaultCity="Bulawayo" />
 
         <footer>
           Created with love by Nokuthaba Siphambili and is
