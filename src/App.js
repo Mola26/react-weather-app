@@ -13,10 +13,17 @@ export default function App() {
           <a
             href="https://github.com/Mola26/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel=" noopener noreferrer"
           >
             {" "}
             open soured on Github.
+          </a>
+          <a
+            href="https://unique-liger-acc4ec.netlify.app/"
+            target="_blank"
+            rel=" noopener noreferrer"
+          >
+            and hosted on Netlify
           </a>
         </footer>
       </div>
