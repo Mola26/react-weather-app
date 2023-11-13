@@ -9,21 +9,22 @@ export default function App() {
         <Weather defaultCity="Pretoria" />
 
         <footer>
-          Created with love by Nokuthaba Siphambili and is
+          Created with love by Nokuthaba Siphambili {""}
+          <a
+            href="https://unique-liger-acc4ec.netlify.app/"
+            target="_blank"
+            rel=" noopener noreferrer"
+          >
+            hosted on Netlify
+          </a>{" "}
+          and is {""}
           <a
             href="https://github.com/Mola26/react-weather-app"
             target="_blank"
             rel=" noopener noreferrer"
           >
             {" "}
-            open soured on Github.
-          </a>
-          <a
-            href="https://unique-liger-acc4ec.netlify.app/"
-            target="_blank"
-            rel=" noopener noreferrer"
-          >
-            and hosted on Netlify
+            open soured on Github. {""}
           </a>
         </footer>
       </div>
